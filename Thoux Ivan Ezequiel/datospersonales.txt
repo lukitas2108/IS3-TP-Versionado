@@ -1,1 +1,6 @@
 Nombre: Ivan Ezequiel, Apellido: Thoux, Email: thouxivan@gmail.com
+
+Informacion falsa agregada:
+Mi fecha de nacimiento fue el 18/04/2001.
+Mi color favorito es el azul.
+Estoy estudiando administracion de empresas.
